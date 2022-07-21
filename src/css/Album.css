@@ -1,0 +1,9 @@
+.album-title {
+  text-align: center;
+}
+
+.song-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

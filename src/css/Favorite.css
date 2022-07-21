@@ -1,0 +1,10 @@
+.favorite-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.favorite-title {
+  text-align: center;
+  margin-bottom: 80px;
+}

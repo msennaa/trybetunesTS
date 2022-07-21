@@ -1,0 +1,21 @@
+.fav-button {
+  background-color: #528154;
+  border-style: none;
+}
+
+.song-item {
+  width: 25em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 35px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  background-color: #528154;
+  color: white;
+}
+
+.audio-container {
+  display: flex;
+}
