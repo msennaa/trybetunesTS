@@ -1,6 +1,6 @@
 # Projeto TrybeTunes
 
-Este projeto simula um clone do itunes. É possível encontrar os álbuns de artistas e bandas catalogadas e ouvir as prévias das músicas.
+Este projeto simula um clone do itunes. É possível encontrar álbuns de artistas ou bandas e ouvir as prévias das músicas de cada álbum.
 
 ### Local
 
