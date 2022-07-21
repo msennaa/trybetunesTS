@@ -2,8 +2,6 @@
 
 Este projeto simula um clone do itunes. É possível encontrar álbuns de artistas ou bandas e ouvir as prévias das músicas de cada álbum.
 
-### Aplicação Front-end
-
 ### Local
 
 Guia para rodar a aplicação localmente. Basta clonar o projeto, utilizar NPM INSTALL na raiz e usar o NPM START
