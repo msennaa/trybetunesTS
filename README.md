@@ -1,23 +1,79 @@
-# Projeto TrybeTunes
+# Boas-vindas ao repositório TrybeTunes !
 
-Este projeto simula um clone do itunes. É possível encontrar álbuns de artistas ou bandas e ouvir as prévias das músicas de cada álbum.
+Um projeto que torna possível ouvir prévias de músicas do Itunes. Esta aplicação possui as seguintes funcionalidades:
 
-### Local
+1- Buscar por cantores e bandas.
 
-Guia para rodar a aplicação localmente. Basta clonar o projeto, utilizar NPM INSTALL na raiz e usar o NPM START
+2- Conferir seus albuns catalogados.
 
-Abra [http://localhost:3000](http://localhost:3000) para visualizar a aplicação no seu browser.
+3- Ouvir as prévias de cada música
 
-### Propriedade Intelectual
+4- Favoritar músicas
 
-A ideia desta aplicação é da instituição trybe. Eu desenvolvi os códigos, inicialmente em javascript e posteriormente em typescript.
+5- Editar informações do usuário
 
-### Ferramentes Utilizadas
+---
+# Orientações
 
--React
+<details>
+  <summary>
+    <strong>⌨️ Tecnologias</strong>
+  </summary>
+  
+  - **ReactJS**
+  
+  - **CSS**
+  
+  - **Typescript**
 
--Typescript
+</details>
 
--Context Api
+<details>
+  <summary>
+    <strong>🕵🏽‍♀️ Api Utilizada</strong>
+  </summary>
+  
+  - [API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html)
 
--Css
+</details>
+
+<details>
+  <summary>
+    <strong>🪛 Scripts relevantes do <code>package.json</code></strong>
+  </summary><br>
+
+  - `start`: Roda a aplicação;
+    - *uso (na raiz do projeto): `npm start`*
+
+</details>
+
+<details>
+  <summary>
+    <strong>🤝 Passo a Passo</strong>
+  </summary><br>
+
+  1. Clone o repositório
+
+  - Use o comando: `git clone git@github.com:msennaa/trybetunesTS.git`
+  - Entre na pasta do repositório que você acabou de clonar:
+    - `cd trybetunesTS`
+
+  2. Instale as dependências
+
+  - Para isso, use o seguinte comando: `npm install`
+  
+  3. Subindo a aplicação
+
+  - Para isso, use o seguinte comando na raiz do projeto: `npm start`
+  
+  </details>  
+  
+<details>
+  <summary>
+    <strong>🗣 Me dê feedbacks sobre o projeto!</strong>
+  </summary><br>
+
+  Qualquer tipo de feedback é bem vindo para que eu possa continuar melhorando. 
+   - **senamatheusjob@gmail.com**
+
+</details>
