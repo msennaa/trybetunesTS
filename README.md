@@ -4,7 +4,7 @@ Um projeto que torna possível ouvir prévias de músicas do Itunes. Esta aplica
 
 1- Buscar por cantores e bandas.
 
-2- Conferir seus albuns catalogados.
+2- Conferir os albuns catalogados.
 
 3- Ouvir as prévias de cada música
 
